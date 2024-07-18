@@ -1,14 +1,14 @@
 <h1 align="center">Olá! Eu sou o Enzo.</h1>
 <h3 align="center">Dev formado em Análise de Sistemas e em Desenvolvimento Web Full-Stack.</h3>
 
-- Atualmente busco me aprofundar nas linguagens **TypeScript, Python e C#, assim como seus Frameworks.**
+- Atualmente busco me aprofundar nas linguagens **TypeScript, Python e C#, assim como em seus Frameworks.**
 
 - Quer me contatar diretamente? Escreva para **enzopascoate@gmail.com**.
 
 <h3 align="left">Redes sociais:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/enzopascoate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enzopascoate" height="30" width="40" /></a>
-<a href="https://instagram.com/enzopascoate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enzopascoate" height="30" width="40" /></a>
+<a href="https://instagram.com/enzo_pascoate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enzopascoate" height="30" width="40" /></a>
 </p>
 
 <h2 align="center">Lista de conhecimentos:</h2>
