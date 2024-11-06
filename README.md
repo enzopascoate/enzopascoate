@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Enzo.</h1>
 <h3 align="center">Dev formado em Análise de Sistemas e em Desenvolvimento Web Full-Stack.</h3>
 
-- Atualmente busco me aprofundar nas linguagens **TypeScript e Python, assim como em seus Frameworks.**
+- Atualmente trabalho majoritariamente com **JavaScript e Python, juntamente de diversos de seus Frameworks.**
 
 - Quer me contatar diretamente? Escreva para **enzopascoate@gmail.com**.
 
